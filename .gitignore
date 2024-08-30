@@ -1,0 +1,10 @@
+bin/*
+!bin/*.sh
+!bin/*.py
+!bin/*.json
+tla/*
+!tla/wpaxos.tla
+!tla/wpaxos.cfg
+aws
+ppaxos
+cosmos
